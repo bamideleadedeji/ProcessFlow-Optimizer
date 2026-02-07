@@ -1,0 +1,43 @@
+activity,hours_delay
+Vendor creates debit memo,74.22006661337596
+Vendor creates invoice,0.7217270376534284
+Cancel Goods Receipt,0.04011089577950043
+SRM: Created,0.03715192465192465
+Create Purchase Requisition Item,0.0281979739010989
+Reactivate Purchase Order Item,0.018354818907305094
+Change Delivery Indicator,0.018121009425357253
+SRM: Complete,0.016277641277641277
+Change Quantity,0.01620821483519045
+Record Subsequent Invoice,0.014471057884231536
+Change Storage Location,0.01293172690763052
+SRM: Document Completed,0.01247952497952498
+SRM: In Transfer to Execution Syst.,0.012445703493862132
+SRM: Awaiting Approval,0.012356674856674858
+Update Order Confirmation,0.01168032786885246
+Delete Purchase Order Item,0.01103474178403756
+Change Price,0.010300786176178594
+Cancel Invoice Receipt,0.009970405862457723
+Record Goods Receipt,0.009654342448351942
+Record Invoice Receipt,0.007141910007577082
+Cancel Subsequent Invoice,0.006551255940257977
+Record Service Entry Sheet,0.0061915441733596
+Release Purchase Requisition,0.006174161313347609
+Create Purchase Order Item,0.005983895699428762
+SRM: Change was Transmitted,0.005578703703703704
+SRM: Deleted,0.005407801418439716
+Remove Payment Block,0.00475094511341361
+SRM: Ordered,0.003910728910728911
+Receive Order Confirmation,0.003385311086854826
+Change Final Invoice Indicator,0.0030303030303030303
+Block Purchase Order Item,0.0029507133592736705
+SRM: Held,0.002777777777777778
+Set Payment Block,0.0025537634408602148
+Change payment term,0.0023809523809523807
+SRM: Transfer Failed (E.Sys.),0.0018518518518518517
+Change Approval for Purchase Order,0.0014631127613490694
+Change Currency,0.0014285714285714286
+Release Purchase Order,0.0014078674948240165
+Clear Invoice,0.000195566026897402
+Change Rejection Indicator,0.0
+SRM: Incomplete,0.0
+SRM: Transaction Completed,0.0
